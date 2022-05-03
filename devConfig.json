@@ -1,0 +1,28 @@
+{
+  "PPSA01758": {
+    "metadata":{
+      "en-US": {
+        "description": "Testing stuff for Tubi (Prod App)",
+        "imageBgUrl": "https://cdn.adrise.tv/tubitv-assets/img/red_horror_background.png"
+      },
+      "ca-FR": {
+        "description": "Trouvez les meilleurs exemples pour vos questions et plus encore avec Tubi",
+        "imageBgUrl": "https://cdn.adrise.tv/tubitv-assets/img/red_horror_background.png"
+      }
+    },
+    "deeplinkTestStrandUrl": "http://ott-ps5-alpha.production-public.tubi.io/oz/playstation/deeplink-test"
+  },
+  "NPXS45060": {
+    "metadata":{
+      "en-US": {
+        "description": "Testing stuff for Tubi (Dev/Sample App)",
+        "imageBgUrl": "https://cdn.adrise.tv/tubitv-assets/img/red_horror_background.png"
+      },
+      "ca-FR": {
+        "description": "Trouvez les meilleurs exemples pour vos questions et plus encore avec Tubi",
+        "imageBgUrl": "https://cdn.adrise.tv/tubitv-assets/img/red_horror_background.png"
+      }
+    },
+    "deeplinkTestStrandUrl": "http://ott-ps5-alpha.production-public.tubi.io/oz/playstation/deeplink-test"
+  }
+}
