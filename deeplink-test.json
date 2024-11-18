@@ -1,5 +1,33 @@
-{
-    "tiles": [
-      {"imagePrimaryUrl": "https://canvas.tubitv.com/opts/PP7gkEEg5TWUVA==/bebe8338-c8b6-4020-bb73-69759e73cdc2/CIAPEKQFOgUxLjEuMg==", "deepLinkParam": "contentId=543161&utm_campaign=ps5-general&utm_content=12&utm_medium=pmr&utm_source=videohome"}
-    ]
-}
+<html>
+
+<head>
+
+<meta name="description" content="ps5 deeplink">
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width">
+
+  <style>
+
+  body {
+
+  background-color: white;
+
+  }
+
+  </style>
+
+</head>
+
+<body>
+
+  <a href="psgm:play?id=PPSA24477&arg=action%3Dlaunch%26contentId%3D543161">Movie  - 543161</a>
+
+     <a href="psgm:play?id=PPSA24477&arg=action%3Dlaunch%26contentId%3D318410">Series - 318410</a>
+
+    <a href="psgm:play?id=PPSA24477&arg=action%3Dlaunch%26contentId%3D00000">Invalid ID 000000</a>
+
+</body>
+
+</html>
