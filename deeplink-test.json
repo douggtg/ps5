@@ -1,13 +1,6 @@
 {
     "tiles": [
         {
-           "imagePrimaryUrl": "https://canvas.tubitv.com/opts/z0UmulYOlXKphg==/d4c14099-3ef3-403b-ba82-d263db873a46/CNIHEMAEOgUxLjEuMg==",
-            "deepLinkParam": "psgm:play?id=PPSA24477&arg=deeplinkType=home&utm_campaign=ps5-general&utm_content=0&utm_medium=pmr&utm_source=videohome"
-        {
-            "imagePrimaryUrl": "https://canvas.tubitv.com/opts/PP7gkEEg5TWUVA==/bebe8338-c8b6-4020-bb73-69759e73cdc2/CIAPEKQFOgUxLjEuMg==",
-            "deepLinkParam": "contentId=543161&utm_campaign=ps5-general&utm_content=0&utm_medium=pmr&utm_source=videohome"
-        },
-        {
             "imagePrimaryUrl": "http://canvas-bridge.tubitv.com/qbEUbP-UEUt6a-n7RhO-eH9NRN8=/219x337:219x337/0x0/smart/img.adrise.tv/1f0011f7-7182-467f-a440-02c8a53adec5.jpg",
             "deepLinkParam": "contentId=03320&utm_campaign=ps5-general&utm_content=12&utm_medium=pmr&utm_source=videohome"
         },
