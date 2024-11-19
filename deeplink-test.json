@@ -1,21 +1,7 @@
-{
-    "tiles": [
-        {
-            "imagePrimaryUrl": "https://images.adrise.tv/xmHae8UoW4Rp811lbVHzOTqTW8k=/978x576/smart/img.adrise.tv/39982dd1-6331-45d6-acd8-8957d4705f15.png",
-            "deepLinkParam": "contentId=641496&utm_campaign=ps5-general&utm_content=0&utm_medium=pmr&utm_source=videohome"
-        },
-        {
-            "imagePrimaryUrl": "https://canvas.tubitv.com/opts/PP7gkEEg5TWUVA==/bebe8338-c8b6-4020-bb73-69759e73cdc2/CIAPEKQFOgUxLjEuMg==",
-            "deepLinkParam": "contentId=543161&utm_campaign=ps5-general&utm_content=0&utm_medium=pmr&utm_source=videohome"
-        },
-        {
-            "imagePrimaryUrl": "http://canvas-bridge.tubitv.com/qbEUbP-UEUt6a-n7RhO-eH9NRN8=/219x337:219x337/0x0/smart/img.adrise.tv/1f0011f7-7182-467f-a440-02c8a53adec5.jpg",
-            "deepLinkParam": "contentId=03320&utm_campaign=ps5-general&utm_content=12&utm_medium=pmr&utm_source=videohome"
-        },
-        
-        {
-            "imagePrimaryUrl": "http://canvas-bridge.tubitv.com/3EXlH21uXQrw0-jbVRjxulE1WNs=/0x8:1920x1074/1920x1066/smart/img.adrise.tv/8866482b-a421-4c20-a03a-2a7793842b00.jpg",
-            "deepLinkParam": "contentId=01622&utm_campaign=ps5-general&utm_content=13&utm_medium=pmr&utm_source=videohome"
-        }
-    ]
-}
+{"tiles":[{"imagePrimaryUrl":"https://images.adrise.tv/xmHae8UoW4Rp811lbVHzOTqTW8k=/978x576/smart/img.adrise.tv/39982dd1-6331-45d6-acd8-8957d4705f15.png","deepLinkParam":"contentId=641496&utm_campaign=ps5-general&utm_content=0&utm_medium=pmr&utm_source=videohome"},
+{"imagePrimaryUrl":"https://canvas.tubitv.com/04c39b1f-abe7-4333-9c32-7c44c83da6e9/ilZRQ0?w=3072&h=1783","deepLinkParam":"contentId=342067&utm_campaign=ps5-general&utm_content=12&utm_medium=pmr&utm_source=videohome"},
+{"imagePrimaryUrl":"http://img.adrise.tv/98881dd2-0b81-47c4-ace8-1b0854de1775.jpg","deepLinkParam":"contentId=321133&utm_campaign=ps5-general&utm_content=10&utm_medium=pmr&utm_source=videohome"},
+{"imagePrimaryUrl":"https://canvas.tubitv.com/0028ff9f-6775-45b2-b95a-3e8b506d3fe6/opl8gQ?w=3072&h=1783","deepLinkParam":"contentId=624927&utm_campaign=ps5-general&utm_content=12&utm_medium=pmr&utm_source=videohome"},
+{"imagePrimaryUrl":"https://canvas-bridge.staging-public.tubi.io/E0941PPSgRhci0-gUIrrGhEPGmU=/0x7:1155x649/1920x1080/smart/img.adrise.tv/6667c609-c3c6-44ac-bb63-4b075f54a0a9.jpg","deepLinkParam":"contentId=682650&utm_campaign=ps5-general&utm_content=10&utm_medium=pmr&utm_source=videohome"},
+{"imagePrimaryUrl":"http://canvas-bridge.tubitv.com/qbEUbP-UEUt6a-n7RhO-eH9NRN8=/219x337:219x337/0x0/smart/img.adrise.tv/1f0011f7-7182-467f-a440-02c8a53adec5.jpg","deepLinkParam":"contentId=03320&utm_campaign=ps5-general&utm_content=12&utm_medium=pmr&utm_source=videohome"},
+{"imagePrimaryUrl":"http://canvas-bridge.tubitv.com/3EXlH21uXQrw0-jbVRjxulE1WNs=/0x8:1920x1074/1920x1066/smart/img.adrise.tv/8866482b-a421-4c20-a03a-2a7793842b00.jpg","deepLinkParam":"contentId=01622&utm_campaign=ps5-general&utm_content=13&utm_medium=pmr&utm_source=videohome"}]}
